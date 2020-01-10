@@ -1,0 +1,19 @@
+{
+  "alunos": [
+    {
+      "nome": "Aluno 01 - Matriz",
+      "email": "aluno01@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Aluno 03 - criado",
+      "email": "aluno3@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Aluno 2 alterado",
+      "email": "aluno2@gmail.com",
+      "id": 3
+    }
+  ]
+}
